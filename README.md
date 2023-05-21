@@ -7,7 +7,7 @@
 
 ### ¿Que es esto?
 
-Este es un payload para el [**bash bunny**](https://hak5.org/collections/hotplug-attack-tools/products/bash-bunny) de [**Hak5**](https://hak5.org) creado por **Genplat** (yo), el payload registra las pulsaciónes del teclado de la victima y las manda a los servidores que tu elijas, el mismo está basado en [duckylogger](https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads/library/credentials/DuckyLogger) y adaptado para funcionar en el bash bunny
+Este es un payload para el [**bash bunny**](https://hak5.org/collections/hotplug-attack-tools/products/bash-bunny) de [**Hak5**](https://hak5.org) creado por **Genplat** (yo), el payload registra las pulsaciónes del teclado de la victima y las manda a los servidores que tu elijas, el mismo está basado en [duckylogger](https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads/library/credentials/DuckyLogger) y adaptado para funcionar en el bash bunny.
 
 ### ¿Como se utiliza?
 
@@ -25,3 +25,6 @@ Este es un payload para el [**bash bunny**](https://hak5.org/collections/hotplug
 
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/elite6_27) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/elite6_27)
   ##### **Bitcoin: 34MSaTHspfEwNdy13u6tQKSkqXhtJdGgfv**
+
+
+> BunnyLogger: Una hora despues de publicar el repo me enteré de que existía [BunnyLogger](https://shop.hak5.org/blogs/payloads/bunnylogger), este repo, de **NINGUNA** manera fue creado en base al BunnyLogger, por lo cual, esto puede servir como una gran alternativa a el BunnyLogger.
