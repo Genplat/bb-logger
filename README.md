@@ -1,9 +1,9 @@
 # Bash Bunny KeyLogger
 ## Adapted from [duckylogger](https://github.com/hak5/usbrubberducky-payloads/tree/master/payloads/library/credentials/DuckyLogger)
 ### NOVEDADES:
--Compatibilidad para bash bunny
--100% en español
--Un par de añadidos adicionales meramente esteticos
+-Compatibilidad para bash bunny</p>
+-100% en español</p>
+-Un par de añadidos adicionales meramente esteticos</p>
 
 ### ¿Que es esto?
 
