@@ -27,4 +27,4 @@ Este es un payload para el [**bash bunny**](https://hak5.org/collections/hotplug
   ##### **Bitcoin: 34MSaTHspfEwNdy13u6tQKSkqXhtJdGgfv**
 
 
-> BunnyLogger: Una hora despues de publicar el repo me enteré de que existía [BunnyLogger](https://shop.hak5.org/blogs/payloads/bunnylogger), este repo, de **NINGUNA** manera fue creado en base al BunnyLogger, por lo cual, esto puede servir como una gran alternativa a el BunnyLogger.
+> BunnyLogger: Una hora despues de publicar el repo me enteré de que existía [BunnyLogger](https://shop.hak5.org/blogs/payloads/bunnylogger), este repo, de **NINGUNA** manera fue creado en base al BunnyLogger, por lo cual, esto puede servir como una gran alternativa a el BunnyLogger, además, leyendo el código del **BunnyLogger** me di cuenta de que este requiere de montar el bash bunny, lo cual puede provocar algunos inconvenientes, este código NO monta el bash bunny.
