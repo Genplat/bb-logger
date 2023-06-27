@@ -1,14 +1,8 @@
-# Establece la imagen base
-FROM python:3
+FROM debian:latest
 
-# Establece el directorio de trabajo
+RUN apt-get update && apt-get install -y xinput
+
 WORKDIR /app
+COPY BBLoggerDecoder /app/BBLoggerDecoder
 
-# Copia el archivo BBLoggerDecoder.py al directorio de trabajo
-COPY BBLoggerDecoder .
-
-# Instala las dependencias si es necesario
-# RUN pip install -r requirements.txt
-
-# Define el comando de ejecución
-CMD [ "python3", "BBLoggerDecoder" ]
+CMD ["bash", "/app/BBLoggerDecoder"]
